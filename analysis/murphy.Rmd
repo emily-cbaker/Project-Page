@@ -1,0 +1,13 @@
+---
+title: "Eutheria Laboratory"
+site: workflowr::wflow_site
+output:
+  workflowr::wflow_html:
+    toc: false
+editor_options:
+  chunk_output_type: console
+---
+
+Eutheria Laboratory is an evolutionary genomics lab run by Dr. Bill Murphy at Texas A&M University that utilizes comparative genomics to study the processes of adaptation, speciation, and diversification in mammals.
+
+<img src="analysis/MammalianPhylogeny.jpg">
